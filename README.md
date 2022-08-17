@@ -1,6 +1,6 @@
-### Sup bro! 
+### Sup bro! Sou estudante de Ciência de Dados e IA
 
-- Estudante de Ciência de Dados e IA- PUCRS
+- Aprendendo Python e Java
 
 <div align="left">
   <a href="https://github.com/ofernandosuzuki">
