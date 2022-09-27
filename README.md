@@ -16,6 +16,7 @@
   <img align="center" alt="Fernando-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img align="center" alt="git" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="jupyter" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="vim" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
 </div>
 
