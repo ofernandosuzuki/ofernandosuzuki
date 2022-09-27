@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1 align="center">Sup bro! Sou <a href="https://www.linkedin.com/in/fernando-suzuki-3b6751235/"><i>Fernando Suzuki</i></a> estudante de Ciência de Dados e Inteligência Artificial</h1>
   
 <br>![vbvv](https://user-images.githubusercontent.com/101721229/172076856-9254d8b5-4046-458c-bc78-2ba2b6fb7557.gif)
