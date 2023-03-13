@@ -4,12 +4,6 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/ofernandosuzuki">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ofernandosuzuki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandosuzuki&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
